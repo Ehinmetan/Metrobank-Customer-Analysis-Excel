@@ -9,7 +9,7 @@ A customer insights project built entirely in **Microsoft Excel**, analyzing Met
 
 - [Dashboard](https://github.com/Ehinmetan/Metrobank-Customer-Analysis-Excel/blob/main/README.md#dashboard)
 
-- 
+- [Key Insights & Findings](https://github.com/Ehinmetan/Metrobank-Customer-Analysis-Excel/blob/main/README.md#key-insights--findings)
 ##  Problem Statement
 MetroBank wanted to better understand its customer base by answering key questions:
 
