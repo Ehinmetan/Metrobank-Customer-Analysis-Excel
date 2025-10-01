@@ -1,6 +1,10 @@
 # MetroBank Customer Analysis (Excel Project)
 A customer insights project built entirely in **Microsoft Excel**, analyzing MetroBank's customer base to support data-driven decisions around customer engagement, segmentation, and business growth.
 
+## Table of content
+
+- [Problem Statement](https://github.com/Ehinmetan/Metrobank-Customer-Analysis-Excel/blob/main/README.md#problem-statement)
+
 ##  Problem Statement
 MetroBank wanted to better understand its customer base by answering key questions:
 
