@@ -1,2 +1,2 @@
-# Metrobank-Customer-Analysis-Excel
-Excel-based customer analytics project for MetroBank. Includes demographic segmentation, income brackets, regional distribution, and tenure insights using calculated columns, date functions, and PivotTables/PivotCharts.
+# MetroBank Customer Analysis (Excel Project)
+A customer insights project built entirely in **Microsoft Excel**, analyzing MetroBank's customer base to support data-driven decisions around customer engagement, segmentation, and business growth.
